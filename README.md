@@ -1,15 +1,5 @@
 # Developer Portfolio
 
-### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
-
----
-
-# Demo :movie_camera:
-
-![](./public/image/screen.png)
-
-## View live preview [here](https://abusaid.netlify.app/).
-
 ---
 
 ## Table of Contents :scroll:
@@ -102,22 +92,19 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
-  profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "...",
-};
+	name: 'Laurent TRINCO',
+	profile: '/profile.png',
+	designation: 'Full-Stack Software Developer',
+	description: 'My name is Laurent....',
+	email: 'laurent.trinco@gmail.com',
+	address: 'Chambord, France',
+	github: 'https://github.com/JaRoD41',
+	facebook: 'https://www.facebook.com/laurent.trinco/',
+	linkedIn: 'https://www.linkedin.com/in/laurenttrinco/',
+	stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
+	devUsername: 'JaRoD41',
+	resume: '...',
+}
 ```
 
 `devUsername` Used for fetching blog from `dev.to`.
