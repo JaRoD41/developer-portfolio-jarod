@@ -6,3 +6,5 @@ export const contactsData = {
 	linkedIn: 'https://www.linkedin.com/in/laurenttrinco/',
 	devUsername: 'JaRoD41',
 }
+
+// here you can add more social links
