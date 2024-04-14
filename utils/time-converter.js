@@ -24,3 +24,5 @@ export function timeConverter(isoTime) {
     return `${years} years ago`;
   }
 }
+
+// here we can use the timeConverter function to convert the time from ISO format to a human readable format
