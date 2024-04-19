@@ -3,7 +3,7 @@ export const educations = [
 		id: 1,
 		title: 'Bachelor Degree',
 		duration: '2020 - Present',
-		institution: 'blablablabla',
+		institution: 'OpenClassrooms',
 	},
 	{
 		id: 2,
