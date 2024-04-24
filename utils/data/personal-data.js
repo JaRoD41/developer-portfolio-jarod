@@ -11,5 +11,3 @@ export const personalData = {
 	devUsername: 'JaRoD41',
 	resume: '...',
 }
-
-// here you can add more social links
