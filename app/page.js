@@ -38,3 +38,5 @@ export default async function Home() {
     </>
   )
 };
+
+// here we are fetching data from dev.to api
