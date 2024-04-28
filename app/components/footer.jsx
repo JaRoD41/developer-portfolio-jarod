@@ -42,3 +42,5 @@ function Footer() {
 }
 
 export default Footer
+
+// here we can add the footer
