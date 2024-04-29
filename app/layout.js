@@ -29,3 +29,5 @@ export default function RootLayout({ children }) {
 		</html>
 	)
 }
+
+// here there are some global styles included in the layout
