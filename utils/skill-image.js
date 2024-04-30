@@ -229,3 +229,5 @@ export const skillsImage = (skill) => {
       break;
   }
 }
+
+// here we can add the skills
